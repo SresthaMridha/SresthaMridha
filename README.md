@@ -21,10 +21,13 @@
 
 | Project | Stack | |
 |---|---|---|
+| **Serverless AWS Portfolio Infrastructure** | Lambda · ALB · CloudFront · SNS · SQS · DynamoDB · WAF · Vault · VPC Endpoints · Terraform | [private — available on request](https://github.com/SresthaMridha/aws-serverless-portfolio-infra) |
 | **DevSecOps Platform Infrastructure** | EKS · ArgoCD · Kaniko · Terraform · IRSA | [private — available on request](https://github.com/SresthaMridha/devsecops-platform-infra) |
 | **High-Availability Web App on AWS** | ALB · Auto Scaling · EC2 · Multi-AZ | [repo](https://github.com/SresthaMridha/aws-ha-webapp-alb-asg) |
 | **Multi-AZ RDS MySQL Deployment** | RDS · KMS · CloudWatch · Multi-AZ | [repo](https://github.com/SresthaMridha/aws-rds-multiaz-ha-database) |
 | **Secure Static Website** | S3 · CloudFront · Route 53 · OAC | [repo](https://github.com/SresthaMridha/aws-static-website-s3-cloudfront) |
+
+> 🔒 Private repos are available to recruiters on request — reach out via LinkedIn or email.
 
 ---
 
