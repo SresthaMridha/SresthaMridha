@@ -18,7 +18,6 @@ CS grad with a Cybersecurity specialisation. I think in threat models and write 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-%23000000.svg?style=flat&logo=vault&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat&logo=helm&logoColor=white)
 
 ---
 
