@@ -57,12 +57,6 @@ CS grad with a Cybersecurity specialisation. I think in threat models and write 
 
 ---
 
-### 📊 GitHub Stats
-
-![Srestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SresthaMridha&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
----
-
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srestha-mridha/)
